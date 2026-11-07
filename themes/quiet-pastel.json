@@ -3,63 +3,63 @@
   "tokens": {
     "--background": "#161823",
     "--editor-surface": "#161823",
-    "--foreground": "#b4bcc2",
+    "--foreground": "#99a3ab",
     "--card": "#11121a",
-    "--card-foreground": "#b4bcc2",
+    "--card-foreground": "#99a3ab",
     "--popover": "#1e2030",
-    "--popover-foreground": "#b4bcc2",
-    "--primary": "#cbaee3",
+    "--popover-foreground": "#99a3ab",
+    "--primary": "#a17fbf",
     "--primary-foreground": "#12141d",
     "--secondary": "#11121a",
-    "--secondary-foreground": "#b4bcc2",
+    "--secondary-foreground": "#99a3ab",
     "--muted": "#11121a",
-    "--muted-foreground": "#868ca1",
+    "--muted-foreground": "#7a8198",
     "--accent": "#1a1c2b",
-    "--accent-foreground": "#b4bcc2",
+    "--accent-foreground": "#99a3ab",
     "--border": "#0b0c12",
     "--input": "#2b2e42",
-    "--ring": "#cbaee3",
-    "--chart-1": "#cfca7c",
-    "--chart-2": "#a6dbe6",
-    "--chart-3": "#bbe08f",
-    "--chart-4": "#cbaee3",
-    "--chart-5": "#f68a9b",
+    "--ring": "#a17fbf",
+    "--chart-1": "#aaa55c",
+    "--chart-2": "#77b5c3",
+    "--chart-3": "#95bc67",
+    "--chart-4": "#a17fbf",
+    "--chart-5": "#d45c6f",
     "--sidebar": "#11121a",
-    "--sidebar-foreground": "#9ba2b6",
-    "--sidebar-primary": "#cbaee3",
+    "--sidebar-foreground": "#8d95ac",
+    "--sidebar-primary": "#a17fbf",
     "--sidebar-primary-foreground": "#12141d",
     "--sidebar-accent": "#1a1c2b",
-    "--sidebar-accent-foreground": "#b4bcc2",
+    "--sidebar-accent-foreground": "#99a3ab",
     "--sidebar-border": "#0b0c12",
-    "--sidebar-ring": "#cbaee3",
+    "--sidebar-ring": "#a17fbf",
     "--worktree-sidebar": "#11121a",
-    "--worktree-sidebar-foreground": "#9ba2b6",
+    "--worktree-sidebar-foreground": "#8d95ac",
     "--worktree-sidebar-accent": "#1a1c2b",
-    "--worktree-sidebar-accent-foreground": "#b4bcc2",
+    "--worktree-sidebar-accent-foreground": "#99a3ab",
     "--worktree-sidebar-border": "#0b0c12",
-    "--worktree-sidebar-ring": "#cbaee3",
+    "--worktree-sidebar-ring": "#a17fbf",
     "--worktree-sidebar-active": "#1a1c2b",
     "--worktree-sidebar-active-border": "#2b2e42",
     "--host-badge": "#1a1c2b",
-    "--host-badge-foreground": "#9ba2b6",
+    "--host-badge-foreground": "#8d95ac",
     "--tab-bar": "#11121a",
     "--tab-active": "#161823",
-    "--tab-active-foreground": "#b4bcc2",
-    "--tab-active-indicator": "#cbaee3",
+    "--tab-active-foreground": "#99a3ab",
+    "--tab-active-indicator": "#a17fbf",
     "--tab-inactive": "#11121a",
-    "--tab-inactive-foreground": "#8a90a8",
+    "--tab-inactive-foreground": "#7e849f",
     "--split-divider": "#0b0c12",
     "--split-divider-hover": "#33374c",
     "--chat-user-message": "#1e2030",
-    "--text-link": "#aab8f2",
-    "--diff-added": "#bbe08f",
-    "--diff-removed": "#f68a9b",
-    "--git-decoration-added": "#bbe08f",
-    "--git-decoration-modified": "#a6dbe6",
-    "--git-decoration-deleted": "#f68a9b",
-    "--git-decoration-renamed": "#cbaee3",
-    "--git-decoration-untracked": "#bbe08f",
-    "--git-decoration-copied": "#b3e4cb",
+    "--text-link": "#7587d1",
+    "--diff-added": "#95bc67",
+    "--diff-removed": "#d45c6f",
+    "--git-decoration-added": "#95bc67",
+    "--git-decoration-modified": "#77b5c3",
+    "--git-decoration-deleted": "#d45c6f",
+    "--git-decoration-renamed": "#a17fbf",
+    "--git-decoration-untracked": "#95bc67",
+    "--git-decoration-copied": "#83c0a0",
     "--git-decoration-ignored": "#6a7090"
   },
   "tokenColors": [
@@ -81,7 +81,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#f68a9b",
+        "foreground": "#d45c6f",
         "fontStyle": "italic"
       }
     },
@@ -90,7 +90,7 @@
         "keyword.control"
       ],
       "settings": {
-        "foreground": "#f68a9b",
+        "foreground": "#d45c6f",
         "fontStyle": "italic"
       }
     },
@@ -99,7 +99,7 @@
         "keyword.operator"
       ],
       "settings": {
-        "foreground": "#cbaee3"
+        "foreground": "#a17fbf"
       }
     },
     {
@@ -107,7 +107,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#b4bcc2"
+        "foreground": "#99a3ab"
       }
     },
     {
@@ -116,7 +116,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#fba46f"
+        "foreground": "#d77e48"
       }
     },
     {
@@ -125,7 +125,7 @@
         "entity.name.variable.parameter"
       ],
       "settings": {
-        "foreground": "#fba46f",
+        "foreground": "#d77e48",
         "fontStyle": "italic"
       }
     },
@@ -137,7 +137,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#a6dbe6"
+        "foreground": "#77b5c3"
       }
     },
     {
@@ -147,7 +147,7 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#c8ee98"
+        "foreground": "#a0cb6a"
       }
     },
     {
@@ -157,7 +157,7 @@
         "punctuation.definition.decorator"
       ],
       "settings": {
-        "foreground": "#cbaee3",
+        "foreground": "#a17fbf",
         "fontStyle": "italic"
       }
     },
@@ -167,7 +167,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#cfca7c"
+        "foreground": "#aaa55c"
       }
     },
     {
@@ -175,7 +175,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#b3e4cb"
+        "foreground": "#83c0a0"
       }
     },
     {
@@ -184,7 +184,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#cbaee3"
+        "foreground": "#a17fbf"
       }
     },
     {
@@ -192,7 +192,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#fba46f"
+        "foreground": "#d77e48"
       }
     },
     {
@@ -200,7 +200,7 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#fba46f",
+        "foreground": "#d77e48",
         "fontStyle": ""
       }
     },
@@ -209,7 +209,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#cbaee3"
+        "foreground": "#a17fbf"
       }
     },
     {
@@ -217,7 +217,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#7f869f"
+        "foreground": "#747b96"
       }
     },
     {
@@ -225,7 +225,7 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#f68a9b"
+        "foreground": "#d45c6f"
       }
     },
     {
@@ -233,7 +233,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#c8ee98",
+        "foreground": "#a0cb6a",
         "fontStyle": "italic"
       }
     },
@@ -243,7 +243,7 @@
         "entity.name.section"
       ],
       "settings": {
-        "foreground": "#cfca7c",
+        "foreground": "#aaa55c",
         "fontStyle": "bold"
       }
     },
@@ -252,7 +252,7 @@
         "markup.inserted"
       ],
       "settings": {
-        "foreground": "#bbe08f"
+        "foreground": "#95bc67"
       }
     },
     {
@@ -260,7 +260,7 @@
         "markup.deleted"
       ],
       "settings": {
-        "foreground": "#f68a9b"
+        "foreground": "#d45c6f"
       }
     },
     {
@@ -268,7 +268,7 @@
         "markup.changed"
       ],
       "settings": {
-        "foreground": "#a6dbe6"
+        "foreground": "#77b5c3"
       }
     },
     {
@@ -276,7 +276,7 @@
         "markup.bold"
       ],
       "settings": {
-        "foreground": "#fba46f",
+        "foreground": "#d77e48",
         "fontStyle": "bold"
       }
     },
@@ -285,7 +285,7 @@
         "markup.italic"
       ],
       "settings": {
-        "foreground": "#cbaee3",
+        "foreground": "#a17fbf",
         "fontStyle": "italic"
       }
     },
@@ -295,7 +295,7 @@
         "markup.raw"
       ],
       "settings": {
-        "foreground": "#b3e4cb"
+        "foreground": "#83c0a0"
       }
     },
     {
@@ -303,7 +303,7 @@
         "markup.quote"
       ],
       "settings": {
-        "foreground": "#8c93ac",
+        "foreground": "#7f87a3",
         "fontStyle": "italic"
       }
     },
@@ -312,7 +312,7 @@
         "markup.underline.link"
       ],
       "settings": {
-        "foreground": "#a6dbe6"
+        "foreground": "#77b5c3"
       }
     },
     {
@@ -320,7 +320,7 @@
         "invalid"
       ],
       "settings": {
-        "foreground": "#f68a9b"
+        "foreground": "#d45c6f"
       }
     }
   ]

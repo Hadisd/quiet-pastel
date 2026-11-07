@@ -24,17 +24,17 @@ To try a local copy, open **Settings → Plugins → Development folders…** an
 | --- | --- |
 | Editor background | `#161823` |
 | Sidebar and tabs | `#11121a` |
-| Text | `#b4bcc2` |
-| Accent | `#cbaee3` |
-| Operators | `#cbaee3` |
-| Links | `#aab8f2` |
-| Types | `#a6dbe6` |
-| Pink and red | `#f68a9b` |
-| Orange | `#fba46f` |
-| Yellow | `#cfca7c` |
-| Functions | `#c8ee98` |
-| Git added | `#bbe08f` |
-| Aqua | `#b3e4cb` |
+| Text | `#99a3ab` |
+| Accent | `#a17fbf` |
+| Operators | `#a17fbf` |
+| Links | `#7587d1` |
+| Types | `#77b5c3` |
+| Pink and red | `#d45c6f` |
+| Orange | `#d77e48` |
+| Yellow | `#aaa55c` |
+| Functions | `#a0cb6a` |
+| Git added | `#95bc67` |
+| Aqua | `#83c0a0` |
 
 ## License
 

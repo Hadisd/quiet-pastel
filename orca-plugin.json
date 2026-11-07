@@ -3,7 +3,7 @@
   "manifestVersion": 2,
   "id": "quiet-pastel",
   "name": "Quiet Pastel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "execution": "data",
   "description": "A dark, pale blue-violet theme with soft pastel pink, orange, yellow, green, cyan and lavender accents, plus a matching terminal theme.",
   "license": "MIT",
