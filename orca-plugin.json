@@ -3,9 +3,9 @@
   "manifestVersion": 2,
   "id": "quiet-pastel",
   "name": "Quiet Pastel",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "execution": "data",
-  "description": "A dark, pale blue-violet theme with soft pastel pink, orange, yellow, green, cyan and lavender accents, plus a matching terminal theme.",
+  "description": "Two dark, pale blue-violet themes with pastel accents and matching terminal themes: Quiet Pastel Moonlit (brighter) and Quiet Pastel Hush (dimmer).",
   "license": "MIT",
   "repository": "https://github.com/Hadisd/quiet-pastel",
   "engines": {
@@ -13,20 +13,30 @@
   },
   "cover": {
     "path": "images/cover.png",
-    "alt": "Quiet Pastel preview: a file tree, syntax-highlighted TypeScript, terminal output and palette swatches"
+    "alt": "Quiet Pastel Moonlit preview: a file tree, syntax-highlighted TypeScript, terminal output and palette swatches"
   },
   "contributes": {
     "themes": [
       {
+        "id": "moonlit-pastel",
+        "title": "Quiet Pastel Moonlit",
+        "path": "themes/moonlit-pastel.json"
+      },
+      {
         "id": "quiet-pastel",
-        "title": "Quiet Pastel",
+        "title": "Quiet Pastel Hush",
         "path": "themes/quiet-pastel.json"
       }
     ],
     "terminalThemes": [
       {
+        "id": "moonlit-pastel",
+        "title": "Quiet Pastel Moonlit Terminal",
+        "path": "terminal/moonlit-pastel.json"
+      },
+      {
         "id": "quiet-pastel",
-        "title": "Quiet Pastel Terminal",
+        "title": "Quiet Pastel Hush Terminal",
         "path": "terminal/quiet-pastel.json"
       }
     ]
