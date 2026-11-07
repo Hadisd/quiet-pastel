@@ -322,6 +322,47 @@
       "settings": {
         "foreground": "#f68a9b"
       }
+    },
+    {
+      "scope": [
+        "entity.name.namespace"
+      ],
+      "settings": {
+        "foreground": "#a6dbe6"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.decorator"
+      ],
+      "settings": {
+        "foreground": "#cbaee3",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "#b5889d"
+      }
+    },
+    {
+      "scope": [
+        "constant.character.escape"
+      ],
+      "settings": {
+        "foreground": "#b3e4cb"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property"
+      ],
+      "settings": {
+        "foreground": "#b4bcc2"
+      }
     }
   ]
 }
