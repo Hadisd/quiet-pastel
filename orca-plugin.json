@@ -1,0 +1,35 @@
+{
+  "$schema": "https://raw.githubusercontent.com/stablyai/orca/main/docs/schemas/plugins/orca-plugin.v2.schema.json",
+  "manifestVersion": 2,
+  "id": "quiet-pastel",
+  "name": "Quiet Pastel",
+  "version": "1.0.0",
+  "execution": "data",
+  "description": "A dark, pale blue-violet theme with soft pastel pink, orange, yellow, green, cyan and lavender accents, plus a matching terminal theme.",
+  "license": "MIT",
+  "repository": "https://github.com/Hadisd/quiet-pastel",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "cover": {
+    "path": "images/cover.png",
+    "alt": "Quiet Pastel preview: a file tree, syntax-highlighted TypeScript, terminal output and palette swatches"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "quiet-pastel",
+        "title": "Quiet Pastel",
+        "path": "themes/quiet-pastel.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "quiet-pastel",
+        "title": "Quiet Pastel Terminal",
+        "path": "terminal/quiet-pastel.json"
+      }
+    ]
+  },
+  "capabilities": []
+}
